@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url(../font/Quicksand/Quicksand-Bold.ttf);
+    font-size: 500px;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url(../font/Quicksand/Quicksand-Medium.ttf);
+    font-size: 600px;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url(../font/Quicksand/Quicksand-SemiBold.ttf);
+    font-size: 700px;
+}
