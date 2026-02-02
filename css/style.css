@@ -180,6 +180,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .collection__second-block{
     margin: 100px 0;
     display: flex;
@@ -190,6 +191,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+   
 }
 
 
@@ -199,6 +201,8 @@ body {
     font-weight: 600;
     font-size: 32px;
     color: #303030;
+     max-width: 555px;
+    width: 100%;
 }
 
 .collection__left-p {
@@ -208,6 +212,8 @@ body {
     font-size: 20px;
     line-height: 30px;
     color: #303030;
+    max-width: 460px;
+    width: 100%;
 }
 
 .collection__left-discover {
@@ -222,6 +228,13 @@ body {
     font-weight: 700;
     font-size: 20px;
     color: #FFFFFF;
+}
+.collection__right{
+    max-width: 555px;
+    width: 100%;
+}
+.collection__right-img{
+    width: 100%;
 }
 
 .footer {
